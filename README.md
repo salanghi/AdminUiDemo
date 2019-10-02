@@ -1,0 +1,2 @@
+# AdminUiDemo
+AdminUi使用Actuator监控SpringBoot项目
